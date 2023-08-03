@@ -1,5 +1,6 @@
 ### Olá 😇
-
+<div>
+  <img src="https://media.giphy.com/media/iE4e5c8ExJUhdhvSiw/giphy.gif">
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
