@@ -9,9 +9,6 @@
     <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
   </a>
 </div>
-<div align="center">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=KyyKelvin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyyKelvin&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple">
 </div>
 
 ## 
